@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome!
+I'm currently working on building a data analytics project portfolio. In 2021, I left my IT career to focus on family. Now, I'm exploring options for returning to work - as a data analyst. I've taken a long list of classes, but nothing beats hands-on practice for building new skills!
+
+If you'd like to connect, please message me on LinkedIn.
 
 <!--
 **tamimcm416/tamimcm416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
