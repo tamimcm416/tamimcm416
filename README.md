@@ -1,5 +1,7 @@
 ### Welcome!
-I'm currently working on building a data analytics project portfolio. In 2021, I left my IT career to focus on family. Now, I'm exploring options for returning to work - as a data analyst. I've taken a long list of classes, but nothing beats hands-on practice for building new skills!
+I am a Data Analyst, Project Manager, Leader, and learner
+
+I am passionate about delivering solutions that drive value and exceed expectations. I believe that clear communication, attention to detail, and flexibility drive success.
 
 If you'd like to connect, please message me on LinkedIn.
 
