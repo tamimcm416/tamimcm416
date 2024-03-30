@@ -1,6 +1,4 @@
 ### Welcome!
-I am a Data Analyst, Project Manager, Leader, and learner
-
 I am passionate about delivering solutions that drive value and exceed expectations. I believe that clear communication, attention to detail, and flexibility drive success.
 
 If you'd like to connect, please message me on LinkedIn.
