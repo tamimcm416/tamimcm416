@@ -2,7 +2,7 @@
 I am passionate about delivering solutions that drive value and exceed expectations.<br>
 If you'd like to connect, please message me on LinkedIn.
 
-### Technical Skills
+### Languages and Tools
 ![sql](https://github.com/tamimcm416/tamimcm416/assets/107127279/509b82cc-218d-44c7-bab1-228d4cd625cb) &nbsp;
 ![python](https://github.com/tamimcm416/tamimcm416/assets/107127279/83f1e71b-bd4e-44b6-9464-45b2d1b2e88d) &nbsp;
 ![jupyter](https://github.com/tamimcm416/tamimcm416/assets/107127279/ab67b977-f954-41f8-9910-716226f64668) &nbsp;
