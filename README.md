@@ -3,7 +3,7 @@ I am passionate about delivering solutions that drive value and exceed expectati
 If you'd like to connect, please message me on LinkedIn.
 
 ### Languages and Tools
-![sql](https://github.com/tamimcm416/tamimcm416/blob/main/images/sql.png) &nbsp;
+![sql](https://github.com/tamimcm416/tamimcm416/blob/main/images/sql_thumb.png) &nbsp;
 
 <!--
 <table border="0">
