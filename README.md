@@ -4,6 +4,12 @@ If you'd like to connect, please message me on LinkedIn.
 
 ### Languages and Tools
 ![sql](https://github.com/tamimcm416/tamimcm416/blob/main/images/sql_thumb.png) &nbsp;
+![python](https://github.com/tamimcm416/tamimcm416/blob/main/images/python_thumb.png) &nbsp;
+![jupyter](https://github.com/tamimcm416/tamimcm416/blob/main/images/jupyter_thumb.png) &nbsp;
+![excel](https://github.com/tamimcm416/tamimcm416/blob/main/images/excel_thumb.png) &nbsp;
+![vba](https://github.com/tamimcm416/tamimcm416/blob/main/images/vba_thumb.png) &nbsp;
+![r](https://github.com/tamimcm416/tamimcm416/blob/main/images/r_thumb.png) &nbsp;
+![tableau](https://github.com/tamimcm416/tamimcm416/blob/main/images/tableau_thumb.png) &nbsp;
 
 <!--
 <table border="0">
