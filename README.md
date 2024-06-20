@@ -10,6 +10,7 @@ If you'd like to connect, please message me on LinkedIn.
 ![vba](https://github.com/tamimcm416/tamimcm416/blob/main/images/vba_thumb.png) &nbsp;
 ![r](https://github.com/tamimcm416/tamimcm416/blob/main/images/r_thumb.png) &nbsp;
 ![tableau](https://github.com/tamimcm416/tamimcm416/blob/main/images/tableau_thumb.png) &nbsp;
+![XML](https://github.com/tamimcm416/tamimcm416/assets/107127279/bb0512c2-837d-4e85-82c0-86b9f90d749e) &nbsp;
 
 <!--
 <table border="0">
